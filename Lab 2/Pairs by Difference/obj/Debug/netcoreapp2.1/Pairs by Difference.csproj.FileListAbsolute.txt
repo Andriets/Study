@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\bin\Debug\netcoreapp2.1\Pairs by Difference.deps.json
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\bin\Debug\netcoreapp2.1\Pairs by Difference.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\bin\Debug\netcoreapp2.1\Pairs by Difference.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\bin\Debug\netcoreapp2.1\Pairs by Difference.dll
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\bin\Debug\netcoreapp2.1\Pairs by Difference.pdb
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.dll
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.pdb
+D:\Study\2 курс\OOП\LAB 02\Pairs by Difference\obj\Debug\netcoreapp2.1\Pairs by Difference.csprojAssemblyReference.cache

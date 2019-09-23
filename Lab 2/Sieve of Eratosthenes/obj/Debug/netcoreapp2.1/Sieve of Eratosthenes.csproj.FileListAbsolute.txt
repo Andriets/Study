@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\Sieve of Eratosthenes.deps.json
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\Sieve of Eratosthenes.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\Sieve of Eratosthenes.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\Sieve of Eratosthenes.dll
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\bin\Debug\netcoreapp2.1\Sieve of Eratosthenes.pdb
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.dll
+D:\Study\2 курс\OOП\LAB 02\Sieve of Eratosthenes\obj\Debug\netcoreapp2.1\Sieve of Eratosthenes.pdb
