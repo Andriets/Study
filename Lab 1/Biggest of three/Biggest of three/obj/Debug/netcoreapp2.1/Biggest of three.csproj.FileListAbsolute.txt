@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\bin\Debug\netcoreapp2.1\Biggest of three.deps.json
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\bin\Debug\netcoreapp2.1\Biggest of three.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\bin\Debug\netcoreapp2.1\Biggest of three.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\bin\Debug\netcoreapp2.1\Biggest of three.dll
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\bin\Debug\netcoreapp2.1\Biggest of three.pdb
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\obj\Debug\netcoreapp2.1\Biggest of three.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\obj\Debug\netcoreapp2.1\Biggest of three.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\obj\Debug\netcoreapp2.1\Biggest of three.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\obj\Debug\netcoreapp2.1\Biggest of three.dll
+D:\Study\2 курс\OOП\LAB 01\Biggest of three\Biggest of three\obj\Debug\netcoreapp2.1\Biggest of three.pdb

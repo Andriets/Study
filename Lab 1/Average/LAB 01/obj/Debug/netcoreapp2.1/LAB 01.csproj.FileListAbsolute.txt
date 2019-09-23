@@ -1,0 +1,22 @@
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.deps.json
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.dll
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.pdb
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.dll
+D:\Study\2 курс\OOП\LAB 01\LAB 01\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.pdb
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.deps.json
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.dll
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\bin\Debug\netcoreapp2.1\LAB 01.pdb
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.dll
+D:\Study\2 курс\OOП\LAB 01\Average\LAB 01\obj\Debug\netcoreapp2.1\LAB 01.pdb

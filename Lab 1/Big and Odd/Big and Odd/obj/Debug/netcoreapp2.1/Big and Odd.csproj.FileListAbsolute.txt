@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\bin\Debug\netcoreapp2.1\Big and Odd.deps.json
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\bin\Debug\netcoreapp2.1\Big and Odd.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\bin\Debug\netcoreapp2.1\Big and Odd.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\bin\Debug\netcoreapp2.1\Big and Odd.dll
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\bin\Debug\netcoreapp2.1\Big and Odd.pdb
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.dll
+D:\Study\2 курс\OOП\LAB 01\Big and Odd\Big and Odd\obj\Debug\netcoreapp2.1\Big and Odd.pdb
