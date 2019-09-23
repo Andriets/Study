@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\bin\Debug\netcoreapp2.1\Most Frequent Number.deps.json
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\bin\Debug\netcoreapp2.1\Most Frequent Number.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\bin\Debug\netcoreapp2.1\Most Frequent Number.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\bin\Debug\netcoreapp2.1\Most Frequent Number.dll
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\bin\Debug\netcoreapp2.1\Most Frequent Number.pdb
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\obj\Debug\netcoreapp2.1\Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\obj\Debug\netcoreapp2.1\Most Frequent Number.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\obj\Debug\netcoreapp2.1\Most Frequent Number.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\obj\Debug\netcoreapp2.1\Most Frequent Number.dll
+D:\Study\2 курс\OOП\LAB 02\Most Frequent Number\obj\Debug\netcoreapp2.1\Most Frequent Number.pdb

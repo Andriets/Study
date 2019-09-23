@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\LAB 02\bin\Debug\netcoreapp2.1\LAB 02.deps.json
+D:\Study\2 курс\OOП\LAB 02\LAB 02\bin\Debug\netcoreapp2.1\LAB 02.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\LAB 02\bin\Debug\netcoreapp2.1\LAB 02.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\LAB 02\bin\Debug\netcoreapp2.1\LAB 02.dll
+D:\Study\2 курс\OOП\LAB 02\LAB 02\bin\Debug\netcoreapp2.1\LAB 02.pdb
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.dll
+D:\Study\2 курс\OOП\LAB 02\LAB 02\obj\Debug\netcoreapp2.1\LAB 02.pdb

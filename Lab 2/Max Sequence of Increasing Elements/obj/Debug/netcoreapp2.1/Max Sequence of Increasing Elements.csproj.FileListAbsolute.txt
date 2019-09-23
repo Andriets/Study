@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.deps.json
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.dll
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.pdb
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.dll
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.pdb
+D:\Study\2 курс\OOП\LAB 02\Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.1\Max Sequence of Increasing Elements.csprojAssemblyReference.cache
