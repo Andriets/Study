@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\bin\Debug\netcoreapp2.1\Trapeziod.deps.json
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\bin\Debug\netcoreapp2.1\Trapeziod.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\bin\Debug\netcoreapp2.1\Trapeziod.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\bin\Debug\netcoreapp2.1\Trapeziod.dll
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\bin\Debug\netcoreapp2.1\Trapeziod.pdb
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.dll
+D:\Study\2 курс\OOП\LAB 01\Trapezoid\Trapeziod\obj\Debug\netcoreapp2.1\Trapeziod.pdb

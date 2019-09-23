@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\bin\Debug\netcoreapp2.1\Sign of product.deps.json
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\bin\Debug\netcoreapp2.1\Sign of product.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\bin\Debug\netcoreapp2.1\Sign of product.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\bin\Debug\netcoreapp2.1\Sign of product.dll
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\bin\Debug\netcoreapp2.1\Sign of product.pdb
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\obj\Debug\netcoreapp2.1\Sign of product.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\obj\Debug\netcoreapp2.1\Sign of product.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\obj\Debug\netcoreapp2.1\Sign of product.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\obj\Debug\netcoreapp2.1\Sign of product.dll
+D:\Study\2 курс\OOП\LAB 01\Sign of product\Sign of product\obj\Debug\netcoreapp2.1\Sign of product.pdb

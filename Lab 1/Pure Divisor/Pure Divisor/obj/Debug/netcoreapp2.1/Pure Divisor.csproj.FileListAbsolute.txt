@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\bin\Debug\netcoreapp2.1\Pure Divisor.deps.json
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\bin\Debug\netcoreapp2.1\Pure Divisor.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\bin\Debug\netcoreapp2.1\Pure Divisor.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\bin\Debug\netcoreapp2.1\Pure Divisor.dll
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\bin\Debug\netcoreapp2.1\Pure Divisor.pdb
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\obj\Debug\netcoreapp2.1\Pure Divisor.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\obj\Debug\netcoreapp2.1\Pure Divisor.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\obj\Debug\netcoreapp2.1\Pure Divisor.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\obj\Debug\netcoreapp2.1\Pure Divisor.dll
+D:\Study\2 курс\OOП\LAB 01\Pure Divisor\Pure Divisor\obj\Debug\netcoreapp2.1\Pure Divisor.pdb
