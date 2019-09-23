@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\obj\Debug\netcoreapp2.1\Last Digit.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\obj\Debug\netcoreapp2.1\Last Digit.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\obj\Debug\netcoreapp2.1\Last Digit.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\bin\Debug\netcoreapp2.1\Last Digit.deps.json
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\bin\Debug\netcoreapp2.1\Last Digit.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\bin\Debug\netcoreapp2.1\Last Digit.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\bin\Debug\netcoreapp2.1\Last Digit.dll
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\bin\Debug\netcoreapp2.1\Last Digit.pdb
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\obj\Debug\netcoreapp2.1\Last Digit.dll
+D:\Study\2 курс\OOП\LAB 01\Last Digit\Last Digit\obj\Debug\netcoreapp2.1\Last Digit.pdb

@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\obj\Debug\netcoreapp2.1\Number as day of week.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\obj\Debug\netcoreapp2.1\Number as day of week.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\obj\Debug\netcoreapp2.1\Number as day of week.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\bin\Debug\netcoreapp2.1\Number as day of week.deps.json
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\bin\Debug\netcoreapp2.1\Number as day of week.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\bin\Debug\netcoreapp2.1\Number as day of week.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\bin\Debug\netcoreapp2.1\Number as day of week.dll
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\bin\Debug\netcoreapp2.1\Number as day of week.pdb
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\obj\Debug\netcoreapp2.1\Number as day of week.dll
+D:\Study\2 курс\OOП\LAB 01\Number as day of week\Number as day of week\obj\Debug\netcoreapp2.1\Number as day of week.pdb

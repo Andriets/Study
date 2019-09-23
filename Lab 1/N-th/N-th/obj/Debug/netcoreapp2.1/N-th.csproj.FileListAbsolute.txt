@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\obj\Debug\netcoreapp2.1\N-th.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\obj\Debug\netcoreapp2.1\N-th.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\obj\Debug\netcoreapp2.1\N-th.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\bin\Debug\netcoreapp2.1\N-th.deps.json
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\bin\Debug\netcoreapp2.1\N-th.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\bin\Debug\netcoreapp2.1\N-th.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\bin\Debug\netcoreapp2.1\N-th.dll
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\bin\Debug\netcoreapp2.1\N-th.pdb
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\obj\Debug\netcoreapp2.1\N-th.dll
+D:\Study\2 курс\OOП\LAB 01\N-th\N-th\obj\Debug\netcoreapp2.1\N-th.pdb

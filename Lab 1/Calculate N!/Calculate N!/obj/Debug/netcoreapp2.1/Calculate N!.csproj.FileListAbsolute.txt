@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\bin\Debug\netcoreapp2.1\Calculate N!.deps.json
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\bin\Debug\netcoreapp2.1\Calculate N!.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\bin\Debug\netcoreapp2.1\Calculate N!.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\bin\Debug\netcoreapp2.1\Calculate N!.dll
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\bin\Debug\netcoreapp2.1\Calculate N!.pdb
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\obj\Debug\netcoreapp2.1\Calculate N!.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\obj\Debug\netcoreapp2.1\Calculate N!.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\obj\Debug\netcoreapp2.1\Calculate N!.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\obj\Debug\netcoreapp2.1\Calculate N!.dll
+D:\Study\2 курс\OOП\LAB 01\Calculate N!\Calculate N!\obj\Debug\netcoreapp2.1\Calculate N!.pdb
