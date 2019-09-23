@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\bin\Debug\netcoreapp2.1\Equal Sums.deps.json
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\bin\Debug\netcoreapp2.1\Equal Sums.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\bin\Debug\netcoreapp2.1\Equal Sums.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\bin\Debug\netcoreapp2.1\Equal Sums.dll
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\bin\Debug\netcoreapp2.1\Equal Sums.pdb
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\obj\Debug\netcoreapp2.1\Equal Sums.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\obj\Debug\netcoreapp2.1\Equal Sums.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\obj\Debug\netcoreapp2.1\Equal Sums.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\obj\Debug\netcoreapp2.1\Equal Sums.dll
+D:\Study\2 курс\OOП\LAB 02\Equal Sums\obj\Debug\netcoreapp2.1\Equal Sums.pdb

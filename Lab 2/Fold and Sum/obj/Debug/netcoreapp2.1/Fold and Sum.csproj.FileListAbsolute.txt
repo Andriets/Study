@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.deps.json
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.dll
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\bin\Debug\netcoreapp2.1\Fold and Sum.pdb
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.dll
+D:\Study\2 курс\OOП\LAB 02\Fold and Sum\obj\Debug\netcoreapp2.1\Fold and Sum.pdb

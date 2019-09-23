@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\bin\Debug\netcoreapp2.1\Compare char arrays.deps.json
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\bin\Debug\netcoreapp2.1\Compare char arrays.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\bin\Debug\netcoreapp2.1\Compare char arrays.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\bin\Debug\netcoreapp2.1\Compare char arrays.dll
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\bin\Debug\netcoreapp2.1\Compare char arrays.pdb
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.dll
+D:\Study\2 курс\OOП\LAB 02\Compare char arrays\obj\Debug\netcoreapp2.1\Compare char arrays.pdb
