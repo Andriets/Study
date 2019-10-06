@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\bin\Debug\netcoreapp2.1\Speed Rasing.deps.json
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\bin\Debug\netcoreapp2.1\Speed Rasing.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\bin\Debug\netcoreapp2.1\Speed Rasing.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\bin\Debug\netcoreapp2.1\Speed Rasing.dll
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\bin\Debug\netcoreapp2.1\Speed Rasing.pdb
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.dll
+D:\Study\2 курс\OOП\LAB 03\Speed Rasing\obj\Debug\netcoreapp2.1\Speed Rasing.pdb

@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\bin\Debug\netcoreapp2.1\Rentangle Intersection.deps.json
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\bin\Debug\netcoreapp2.1\Rentangle Intersection.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\bin\Debug\netcoreapp2.1\Rentangle Intersection.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\bin\Debug\netcoreapp2.1\Rentangle Intersection.dll
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\bin\Debug\netcoreapp2.1\Rentangle Intersection.pdb
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.dll
+D:\Study\2 курс\OOП\LAB 03\Rentangle Intersection\obj\Debug\netcoreapp2.1\Rentangle Intersection.pdb

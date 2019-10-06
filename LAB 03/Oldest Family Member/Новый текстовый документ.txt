@@ -1,0 +1,76 @@
+using System;
+using System.Collections;
+
+namespace Creating_Constructors
+{
+    class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public Person(string n, int a)
+        {
+            Name = n;
+            Age = a;
+        }
+        public Person()
+        {
+        }
+
+
+    }
+
+    class Family : Person
+    {
+        public Family(string name, int age) : base(name, age)
+        {
+        }
+        public Family()
+        {
+        }
+        public void AddMember(Person member)
+        {
+
+            Console.Write("Введіть ім'я: ");
+            member.Name = Console.ReadLine();
+            Name = member.Name;
+            Console.Write("Введіть вік: ");
+            member.Age = Convert.ToInt32(Console.ReadLine());
+            Age = member.Age;
+        }
+
+        /*Person GetOldestMember()
+        {
+         
+
+
+            return k;
+        }*/
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Введіть кількість ченів сім'ї: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+            Family[] members = new Family[n];
+
+            for (int i=0; i<n; i++)
+            {
+                Person member = new Person();
+                members[i] = new Family();
+                members[i].AddMember(member);
+            }
+
+          
+
+
+
+        }
+
+
+     }
+}
+

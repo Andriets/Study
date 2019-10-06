@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\bin\Debug\netcoreapp2.1\Opinion Poll.deps.json
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\bin\Debug\netcoreapp2.1\Opinion Poll.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\bin\Debug\netcoreapp2.1\Opinion Poll.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\bin\Debug\netcoreapp2.1\Opinion Poll.dll
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\bin\Debug\netcoreapp2.1\Opinion Poll.pdb
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.dll
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.pdb
+D:\Study\2 курс\OOП\LAB 03\Opinion Poll\obj\Debug\netcoreapp2.1\Opinion Poll.csprojAssemblyReference.cache

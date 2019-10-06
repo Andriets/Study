@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\bin\Debug\netcoreapp2.1\Oldest Family Member.deps.json
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\bin\Debug\netcoreapp2.1\Oldest Family Member.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\bin\Debug\netcoreapp2.1\Oldest Family Member.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\bin\Debug\netcoreapp2.1\Oldest Family Member.dll
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\bin\Debug\netcoreapp2.1\Oldest Family Member.pdb
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.dll
+D:\Study\2 курс\OOП\LAB 03\Oldest Family Member\obj\Debug\netcoreapp2.1\Oldest Family Member.pdb
