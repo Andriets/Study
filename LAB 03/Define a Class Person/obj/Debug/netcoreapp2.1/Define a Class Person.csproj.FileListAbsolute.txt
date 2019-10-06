@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\bin\Debug\netcoreapp2.1\Define a Class Person.deps.json
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\bin\Debug\netcoreapp2.1\Define a Class Person.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\bin\Debug\netcoreapp2.1\Define a Class Person.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\bin\Debug\netcoreapp2.1\Define a Class Person.dll
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\bin\Debug\netcoreapp2.1\Define a Class Person.pdb
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.dll
+D:\Study\2 курс\OOП\LAB 03\Define a Class Person\obj\Debug\netcoreapp2.1\Define a Class Person.pdb

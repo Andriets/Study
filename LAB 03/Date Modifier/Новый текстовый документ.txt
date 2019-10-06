@@ -1,0 +1,21 @@
+Console.Write("Введіть першу дату: ");
+            int[] date1 = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            Console.Write("Введіть другу дату: ");
+            int[] date2 = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            DateTime Date1 = new DateTime(date1[0], date1[1], date1[2]);
+            DateTime Date2 = new DateTime(date2[0], date2[1], date2[2]);
+            string Date = Convert.ToString(Date2.Subtract(Date1));
+            char[] date = Date.ToCharArray();
+            for (int i=0; i<date.Length; i++)
+            {
+                if (date[i]=='-')
+                {
+                    continue;
+                }
+                if (date[i]=='.')
+                {
+                    break;
+                }
+                Console.Write(date[i]);
+            }

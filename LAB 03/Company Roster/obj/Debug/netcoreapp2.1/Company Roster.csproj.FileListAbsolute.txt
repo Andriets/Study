@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.deps.json
+D:\Study\2 курс\OOП\LAB 03\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.dll
+D:\Study\2 курс\OOП\LAB 03\Company Roster\bin\Debug\netcoreapp2.1\Company Roster.pdb
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.dll
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.pdb
+D:\Study\2 курс\OOП\LAB 03\Company Roster\obj\Debug\netcoreapp2.1\Company Roster.csprojAssemblyReference.cache

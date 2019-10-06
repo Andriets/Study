@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\bin\Debug\netcoreapp2.1\Date Modifier.deps.json
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\bin\Debug\netcoreapp2.1\Date Modifier.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\bin\Debug\netcoreapp2.1\Date Modifier.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\bin\Debug\netcoreapp2.1\Date Modifier.dll
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\bin\Debug\netcoreapp2.1\Date Modifier.pdb
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.dll
+D:\Study\2 курс\OOП\LAB 03\Date Modifier\obj\Debug\netcoreapp2.1\Date Modifier.pdb

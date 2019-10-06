@@ -1,0 +1,10 @@
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\obj\Debug\netcoreapp2.1\Creating Constructors.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\obj\Debug\netcoreapp2.1\Creating Constructors.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\obj\Debug\netcoreapp2.1\Creating Constructors.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\bin\Debug\netcoreapp2.1\Creating Constructors.deps.json
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\bin\Debug\netcoreapp2.1\Creating Constructors.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\bin\Debug\netcoreapp2.1\Creating Constructors.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\bin\Debug\netcoreapp2.1\Creating Constructors.dll
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\bin\Debug\netcoreapp2.1\Creating Constructors.pdb
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\obj\Debug\netcoreapp2.1\Creating Constructors.dll
+D:\Study\2 курс\OOП\LAB 03\Creating Constructors\obj\Debug\netcoreapp2.1\Creating Constructors.pdb
