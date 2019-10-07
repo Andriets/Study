@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\bin\Debug\netcoreapp2.1\2. Class Box Data Validation.deps.json
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\bin\Debug\netcoreapp2.1\2. Class Box Data Validation.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\bin\Debug\netcoreapp2.1\2. Class Box Data Validation.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\bin\Debug\netcoreapp2.1\2. Class Box Data Validation.dll
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\bin\Debug\netcoreapp2.1\2. Class Box Data Validation.pdb
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.dll
+D:\Study\2 курс\OOП\LAB 05\2. Class Box Data Validation\obj\Debug\netcoreapp2.1\2. Class Box Data Validation.pdb

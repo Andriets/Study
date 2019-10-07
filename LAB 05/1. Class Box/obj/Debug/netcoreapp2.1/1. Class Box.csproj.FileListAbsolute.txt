@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\bin\Debug\netcoreapp2.1\1. Class Box.deps.json
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\bin\Debug\netcoreapp2.1\1. Class Box.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\bin\Debug\netcoreapp2.1\1. Class Box.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\bin\Debug\netcoreapp2.1\1. Class Box.dll
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\bin\Debug\netcoreapp2.1\1. Class Box.pdb
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.dll
+D:\Study\2 курс\OOП\LAB 05\1. Class Box\obj\Debug\netcoreapp2.1\1. Class Box.pdb
