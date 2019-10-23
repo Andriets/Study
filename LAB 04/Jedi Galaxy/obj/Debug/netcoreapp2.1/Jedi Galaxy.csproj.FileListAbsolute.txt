@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.deps.json
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.dll
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.pdb
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.dll
+D:\Study\2 курс\OOП\LAB 04\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.pdb

@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\bin\Debug\netcoreapp2.1\1. Raw Data.deps.json
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\bin\Debug\netcoreapp2.1\1. Raw Data.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\bin\Debug\netcoreapp2.1\1. Raw Data.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\bin\Debug\netcoreapp2.1\1. Raw Data.dll
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\bin\Debug\netcoreapp2.1\1. Raw Data.pdb
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.dll
+D:\Study\2 курс\OOП\LAB 04\1. Raw Data\obj\Debug\netcoreapp2.1\1. Raw Data.pdb

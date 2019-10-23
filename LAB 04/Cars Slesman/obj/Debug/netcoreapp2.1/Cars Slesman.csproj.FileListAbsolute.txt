@@ -1,0 +1,11 @@
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\bin\Debug\netcoreapp2.1\Cars Slesman.deps.json
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\bin\Debug\netcoreapp2.1\Cars Slesman.runtimeconfig.json
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\bin\Debug\netcoreapp2.1\Cars Slesman.runtimeconfig.dev.json
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\bin\Debug\netcoreapp2.1\Cars Slesman.dll
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\bin\Debug\netcoreapp2.1\Cars Slesman.pdb
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.csprojAssemblyReference.cache
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.AssemblyInfoInputs.cache
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.AssemblyInfo.cs
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.dll
+D:\Study\2 курс\OOП\LAB 04\Cars Slesman\obj\Debug\netcoreapp2.1\Cars Slesman.pdb
